@@ -1,0 +1,16 @@
+Locx is the x-coordinate of the pedestrian
+Locy is the y-coordinate of the pedestrian
+vx is the lateral velocity of the pedestrian
+vy is the longitudinal velocity of the pedestrian
+ax is the lateral acceleration of the pedestrian
+ay is the longitudinal acceleration of the pedestrian
+tar_d is the distance between pedestrians and the target area
+lane1_veh_c is the type of vehicle on lane 1 (1 is the small car, 3 is the bus, 0 means there are no vehicles on the lane)
+lane1_veh_v is the velocity of vehicle on lane 1
+lane1_veh_a is the acceleration of the velocity on lane 1
+lane1_lat_d is the lateral distance between pedestrian and vehicle on lane 1
+lane1_long_d is the longitudinal distance between pedestrian and vehicle on lane 1
+lane1_x is the x-coordinate of the vehicle
+lane1_y is the y-coordinate of the vehicle
+others is lane2, lane3, lane4, lane5, lane6's vehicle features, respectively
+Lane 1 is the lane closest to the coordinate origin
