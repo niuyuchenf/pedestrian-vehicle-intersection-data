@@ -1,2 +1,3 @@
 # pedestrian-vehicle-intersection-data
-## 1
+## pedestrian behavior data when pedestrians and vehicles interact at unsignalized mid-block crosswalks
+## the road section has six lanes
