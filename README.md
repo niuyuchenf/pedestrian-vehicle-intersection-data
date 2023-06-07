@@ -2,4 +2,4 @@
 ## The road section
 ![lmage text](https://github.com/niuyuchenf/pedestrian-vehicle-intersection-data/blob/master/%E4%BA%BA%E8%A1%8C%E6%A8%AA%E9%81%93%E5%9B%BE%E7%89%87.png)
 ## Specific numbering of six lanes
-![lmage text]()
+![lmage text](https://github.com/niuyuchenf/pedestrian-vehicle-intersection-data/blob/master/%E8%BD%A6%E9%81%93%E7%BC%96%E5%8F%B7.png)
