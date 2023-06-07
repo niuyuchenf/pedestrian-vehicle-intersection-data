@@ -1,3 +1,3 @@
 # pedestrian behavior data when pedestrians and vehicles interact at unsignalized mid-block crosswalks
 ## the road section has six lanes
-![lmage text](https://github.com/niuyuchenf/pedestrian-vehicle-intersection-data/edit/master/Screenshots/人行横道图片.png)
+![lmage text](https://github.com/niuyuchenf/pedestrian-vehicle-intersection-data/blob/master/%E4%BA%BA%E8%A1%8C%E6%A8%AA%E9%81%93%E5%9B%BE%E7%89%87.png)
